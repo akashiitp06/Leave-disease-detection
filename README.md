@@ -13,5 +13,4 @@ This project aims to detect plant leaf disease through image processing techniqu
 
 NOTE: We are working over 3 data sets: (Train, Valid, and Test) data set containing 38 classes of different leaves with different conditions
 here is the link to the dataset 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa040aU9lTG5kYWJ4RTZiQ0hHUENybnB3NjFqd3xBQ3Jtc0ttM0FheGtTNHBObHhHSXRTaU9RRU9uT3NYOERteHZIWlFHUXdaaUN4RmxvY1Z0dzk2aTIzdERSS19SNkFfLVpyRjlPM3J0ZFFPYTRDZWxLdzJFYnllbEx5cW40Smk0dWdKWjN4aUdFOHJyOUliZ0MtWQ&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fvipoooool%2Fnew-plant-diseases-dataset&v=Wdw7BZP4XrA 
-
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
